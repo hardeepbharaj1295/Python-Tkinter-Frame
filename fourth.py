@@ -11,6 +11,5 @@ class FourthClass:
         self.mainFrame.place(x=100, y=100)
         self.win.mainloop()
 
-
 obj = FourthClass()
 obj.add_widget()
