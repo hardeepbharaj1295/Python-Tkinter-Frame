@@ -3,9 +3,9 @@ from tkinter import *
 
 
 # TODO : 2 To create a main window , tkinter offers a method TK()
-x = Tk()
+y = Tk()
 
-x.geometry("600x400")
+y.geometry("600x400")
 
 # TODO : 3 mainloop() method is used when your application is ready to run
-x.mainloop()
+y.mainloop()
